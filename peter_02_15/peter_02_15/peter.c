@@ -13,7 +13,7 @@ void print(int a)
 int main()
 {
 	int a=0;
-	printf("ÇëÊäÈëÊı×Ö:");
+	printf("è¯·è¾“å…¥æ•°å­—:");
 	scanf("%d",&a);
 	print(a);
 	return 0;
