@@ -1,6 +1,5 @@
 #define  _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-//1234
 void print(int a)
 {
 	if(a>9)
