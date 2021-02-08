@@ -20,7 +20,7 @@ int main()
 	int ret=0;
 	scanf("%d",&n);
 	ret=factorial(n);
-	printf("%d�Ľ׳�Ϊ%d\n",n,ret);
+	printf("%d的阶乘为%d\n",n,ret);
 	system("pause");
 	return 0;
 }
