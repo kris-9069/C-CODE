@@ -24,6 +24,6 @@ int main()
 	int ret=0;
 	scanf("%d",&n);
 	ret=Fibonacci2(n);
-	printf("µÚ%d¸öì³²¨ÄÇÆõÊıÎª%d\n",n,ret);
+	printf("ç¬¬%dä¸ªæ–æ³¢é‚£å¥‘æ•°ä¸º%d\n",n,ret);
 	return 0;
 }
