@@ -11,9 +11,9 @@ int main()
 	int ret=0;
 	ret=judge();
 	if(ret==1)
-		printf("Ğ¡¶Ë\n");
+		printf("å°ç«¯\n");
 	if(ret==0)
-		printf("´ó¶Ë\n");
+		printf("å¤§ç«¯\n");
 	system("pause");
 	return 0;
 }
