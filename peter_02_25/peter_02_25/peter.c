@@ -3,13 +3,13 @@
 void find_num(int n)
 {
 	int i=0;
-	printf("Å¼ÊýÎ»:");
+	printf("å¶æ•°ä½:");
 	for(i=31;i>=0;i-=2)
 	{
 		printf("%d ",(n>>i)&1);
 	}
 	printf("\n");
-	printf("ÆæÊýÎ»:");
+	printf("å¥‡æ•°ä½:");
 	for(i=30;i>=0;i-=2)
 	{
 		printf("%d ",(n>>i)&1);
