@@ -25,7 +25,7 @@ int main()
 	int ret=0;
 	scanf("%d%d",&m,&n);
 	ret=diff_count(m,n);
-	printf("不同位的个数: %d\n",ret);
+	printf("涓嶅悓浣嶇殑涓暟: %d\n",ret);
 	system("pause");
 	return 0;
 }
