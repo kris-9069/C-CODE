@@ -11,7 +11,7 @@ int main()
 		if(((a>>i)&1)==1)
 			count++;
 	}
-	printf("¶þ½øÖÆÖÐ1µÄ¸öÊý=%d\n",count);
+	printf("äºŒè¿›åˆ¶ä¸­1çš„ä¸ªæ•°=%d\n",count);
 	system("pause");
 	return 0;
 }
