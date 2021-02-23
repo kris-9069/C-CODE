@@ -16,7 +16,7 @@ int main()
 	double ret=0;
 	scanf("%d%d",&n,&k);
 	ret=test(n,k);
-	printf("%dµÄ%d´Î·½:>%lf\n",n,k,ret);
+	printf("%dçš„%dæ¬¡æ–¹:>%lf\n",n,k,ret);
 	system("pause");
 	return 0;
 }
