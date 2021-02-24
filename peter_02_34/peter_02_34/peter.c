@@ -3,7 +3,7 @@
 #include <stdlib.h>
 int int_sort(const void*e1,const void*e2)
 {
-	return (int*)e1-(int*)e2;
+	return *((int*)e1)-*((int*)e2);
 }
 void swap(char*bp1,char*bp2,int width)
 {
