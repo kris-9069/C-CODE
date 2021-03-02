@@ -29,7 +29,7 @@ int main()
 {
 	char arr[]="abcdefg";
 	int k=0;
-	printf("ÇëÊäÈë×óÐýµÄ¸öÊý:>");
+	printf("è¯·è¾“å…¥å·¦æ—‹å­—ç¬¦ä¸ªæ•°:>");
 	scanf("%d",&k);
 	left_turn(arr,k);
 	printf("%s",arr);
