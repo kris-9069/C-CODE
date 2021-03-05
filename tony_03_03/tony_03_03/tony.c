@@ -32,12 +32,12 @@ int main()
 	int ret=Findnum(arr,k,&x,&y);
 	if(ret==1)
 	{
-		printf("ÕÒµ½ÁË\n");
-		printf("ÏÂ±êÎª:>%d %d\n",x,y);
+		printf("æ‰¾åˆ°äº†\n");
+		printf("ä¸‹æ ‡ä¸º:>%d %d\n",x,y);
 	}
 	else 
 	{
-		printf("ÕÒ²»µ½\n");
+		printf("æ‰¾ä¸åˆ°\n");
 	}
 	system("pause");
 	return 0;
