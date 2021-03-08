@@ -42,11 +42,11 @@ int main()
 	char*ret=my_strstr(p1,p2);
 	if(ret==NULL)
 	{
-		printf("找不到\n");
+		printf("娌℃壘鍒癨n");
 	}
 	else
 	{
-		printf("找到了\n");
+		printf("鎵惧埌浜哱n");
 		printf("%s",ret);
 	}
 	system("pause");
